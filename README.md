@@ -12,10 +12,10 @@ Technologies: Python, BigQuery, Google Cloud, Prophet for time series forecastin
 
 Before you begin, ensure you have the following:
 
-Python 3.11 installed on your local machine.
-Note: Noticed prophet is currently not working with newer versions of Numpy
-A Google Cloud Platform (GCP) account with access to BigQuery.
-A GA4 property with data available in BigQuery.
+Python 3.11 installed on your local machine.\
+Note: Noticed prophet is currently not working with newer versions of Numpy\
+A Google Cloud Platform (GCP) account with access to BigQuery.\
+A GA4 property with data available in BigQuery.\
 Installed dependencies (listed in requirements.txt).
 
 
