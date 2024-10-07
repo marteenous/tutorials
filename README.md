@@ -27,5 +27,5 @@ Contact
 
 For any questions or collaboration, feel free to reach out:
 
-Email: m2guzman@uwaterloo.ca
+Email: m2guzman@uwaterloo.ca\
 GitHub: Marteenous
